@@ -43,7 +43,7 @@ function enviarDatos(evento) {
   };
   mascotas.push(datos);
   listarMascotas();
-  // console.log('datos', datos);
+  console.log('datos', datos);
 }
 
 listarMascotas();
